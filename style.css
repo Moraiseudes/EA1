@@ -1,0 +1,37 @@
+/*PASSO 3 - ESPECIFICAÇÃO COR DE FUNDO*/
+html{
+    background-color: #f3f3f3;
+ }
+ title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+  
+}
+h2{  font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bold;
+}
+
+form{
+    display: block;
+    line-height: 20px;
+}
+
+ #salvar{
+    size: 20px;
+    color:green;
+}
+
+#limpar{
+    size: 20px;
+    color: red;
+}
+/*PASSO 3 - ESPECIFICAÇÃO DE BORDAS*/
+input{
+    border: 2px; 
+    border-color: blue;
+    border-style: solid;
+    
+}
